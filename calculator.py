@@ -1,4 +1,4 @@
-# 기본 계산기
+# 기본 계산�?
 def add(a,b) :
     return a+b
 
@@ -11,5 +11,3 @@ def multiply(a,b):
 def divide_new(a,b):
     return a/b
 
-def say_hello():
-    print("Hello") 
